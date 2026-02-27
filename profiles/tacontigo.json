@@ -1,0 +1,68 @@
+{
+  "name": "Tacontigo",
+  "description": "Tacontigo is a family-owned taco truck based in Virginia, specializing in catering for weddings, parties, company events, and festivals. Known for authentic Mexican flavors, our team provides warm, professional service and makes the process easy for customers.",
+  "services": [
+    "Event catering",
+    "On-site food truck service",
+    "Delivery-based taco bar setup"
+  ],
+  "pricing": {
+    "tiers": [
+      {
+        "minGuests": 1,
+        "maxGuests": 50,
+        "pricePerPerson": 25,
+        "includes": [
+          "3 meats",
+          "Mexican rice",
+          "Beans",
+          "Green salsa",
+          "Red salsa"
+        ]
+      },
+      {
+        "minGuests": 51,
+        "maxGuests": 1000,
+        "pricePerPerson": 23,
+        "includes": [
+          "3 meats",
+          "Mexican rice",
+          "Beans",
+          "Green salsa",
+          "Red salsa"
+        ]
+      }
+    ]
+  },
+  "tone": "Friendly, local, and professional. Responses should be warm and casual but still informative. No heart-eyes emojis, professional emojis only. NO $hashtags. Responses should be short and helpful.",
+  "service_area": [
+    "Richmond",
+    "Henrico",
+    "Chesterfield",
+    "Goochland",
+    "Hanover",
+    "Powhatan",
+    "New Kent",
+    "Colonial Heights",
+    "Hopewell",
+    "Petersburg",
+    "Prince George",
+    "Dinwiddie",
+    "Amelia",
+    "surrounding areas"
+  ],
+  "faq": [
+    {
+      "q": "Do you offer vegetarian options?",
+      "a": "Yes! We offer veggie options upon request."
+    },
+    {
+      "q": "How much notice do you need for an event?",
+      "a": "We recommend reaching out at least 2–3 weeks in advance to lock in your date."
+    },
+    {
+      "q": "Do you require a deposit?",
+      "a": "Yes, we typically require a small deposit to reserve your spot. Full details are shared upon confirmation."
+    }
+  ]
+}
